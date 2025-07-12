@@ -1,53 +1,50 @@
-<h1 align="center">📄 Koleksi Sertifikat – Intan Devia Putri</h1>
+<h1 align="center">👩‍💻 Intan Devia Putri</h1>
 <p align="center">
-  <em>Portofolio pelatihan dan sertifikat di bidang teknologi & pemrograman</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
+  <em>Mahasiswa Sistem Informasi | Enthusiast in Web & Software Development | Aktif mengembangkan diri melalui pelatihan dan proyek mandiri</em>
 </p>
 
 ---
 
-## 🔎 Daftar Isi
+## 🚀 Tentang Saya
 
-- [📚 Daftar Sertifikat](#-daftar-sertifikat)
-- [📌 Curriculum Vitae](#-curriculum-vitae)
-- [✨ Tentang Saya](#-tentang-saya)
+Halo! Saya **Intan Devia Putri**, mahasiswa Sistem Informasi yang sedang aktif mengembangkan keterampilan dalam pengembangan aplikasi berbasis web dan desktop. Saya antusias dalam mengikuti pelatihan, membangun proyek pribadi, dan terdorong untuk terus belajar hal baru di bidang teknologi.
 
 ---
 
-## 📚 Daftar Sertifikat
+## 🧰 Tech Stack & Tools
 
-| Sertifikat                                           | Penyelenggara     | Tahun | Link |
-|------------------------------------------------------|--------------------|-------|------|
-| Website Development                                  | Skill Campus       | 2025  | [📄 Lihat](./sertifikat/E-Certif%20SC%20Website%20Development.jpg) |
-| Belajar Dasar Pemrograman Web                        | Dicoding           | 2025  | [📄 Lihat](./sertifikat/Sertifikat%20-%20Dcoding-Belajar%20Dasar%20Pemrograman%20Web.png) |
-| Database Foundations                                 | Oracle Academy     | 2025  | [📄 Lihat](./sertifikat/Sertifikat%20-%20Oracle%20Academy%20-Database%20Foundations%20-%20Intan%20Devia%20Putri_page-0001.jpg) |
-| Database Programming with SQL                        | Oracle Academy     | 2025  | [📄 Lihat](./sertifikat/Sertifikat%20-%20Oracle%20Academy%20-Database%20Programming%20with%20SQL%20-%20Intan%20Devia%20Putri_page-0001.jpg) |
+- 💻 **Bahasa**: Java, PHP, JavaScript
+- 🌐 **Web Dev**: HTML, CSS, Bootstrap
+- 🧩 **Database**: MySQL
+- 🧠 **Tools**: NetBeans, XAMPP, Git, GitHub
 
 ---
 
-## 📌 Curriculum Vitae
+## 🏆 Proyek Unggulan
 
-🔗 [📄 Lihat CV Saya (PDF)](./CV-Intan-Devia-Putri.pdf)
-
-CV ini berisi informasi pendidikan, pengalaman proyek, dan keterampilan teknis saya secara lengkap.
+| 💡 Proyek | Deskripsi | Link |
+|----------|-----------|------|
+| **Aplikasi Kasir Java GUI** | Aplikasi kasir sederhana berbasis Java (Swing) untuk UMKM Rajo Seblak | [🔗 GitHub](https://github.com/intandv/Aplikasi-Kasir-Sederhana) |
+| **Toko Buku Online PHP** | Website toko buku digital & fisik dengan sistem keranjang belanja | [🔗 GitHub](https://github.com/intandv/Litera--Toko-Buku-Online) |
+| **Koleksi Sertifikat** | Dokumentasi pelatihan, webinar & sertifikat kompetensi | [🔗 GitHub](https://github.com/intandv/Sertifikat) |
 
 ---
 
-## ✨ Tentang Saya
+## 📄 Curriculum Vitae & Sertifikasi
 
-Saya adalah **Intan Devia Putri**, mahasiswa Sistem Informasi yang aktif mengikuti pelatihan, mengerjakan proyek mandiri, dan mendokumentasikan pencapaian saya dalam dunia teknologi.
+- 📎 [Lihat CV saya (PDF)](https://github.com/intandv/Sertifikat/blob/main/CV%20-Intan%20Devia%20Putri.pdf)
+- 📁 [Lihat Koleksi Sertifikat](https://github.com/intandv/Sertifikat)
 
-📫 Hubungi saya:
+---
+
+## 📬 Hubungi Saya
+
 - ✉️ Email: [intandeviap@gmail.com]
+- 
 
 ---
 
 <p align="center">
-  Terima kasih telah mengunjungi repository ini 🙌<br>
-  Jika Anda HR, rekruter, atau ingin kolaborasi, saya sangat terbuka!
+  Terima kasih telah mengunjungi profil saya 🙌  
+  <br>⭐ Jangan lupa beri ⭐ di repo yang kamu suka!
 </p>
