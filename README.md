@@ -11,7 +11,7 @@ Berikut adalah kumpulan sertifikat pelatihan, kursus, dan bootcamp yang telah sa
 |--------------------------------------------------------|----------------------|-------|------------------|
 | Website Development                                    | Skill Campus         | 2025  | [📄 Lihat](./Sertifikat/E-Certif%20SC%20Website%20Development.jpg) |
 | Belajar Dasar Pemrograman Web                          | Dicoding             | 2025  | [📄 Lihat](./Sertifikat/Sertifikat%20-%20Dcoding-Belajar%20Dasar%20Pemrograman%20Web.png) |
-| Database Design                                   | Oracle Academy       | 2025  | [📄 Lihat](./Sertifikat/blob/main/Sertifikat%20-OracleAcademy-DatabaseDesign.jpg) |
+| Database Design                                   | Oracle Academy       | 2025  | [📄 Lihat](./Sertifikat/Sertifikat%20-OracleAcademy-DatabaseDesign.jpg) |
 | Database Programming with SQL                          | Oracle Academy       | 2025  | [📄 Lihat](./Sertifikat/Sertifikat%20-%20Oracle%20Academy%20-Database%20Programming%20with%20SQL%20-%20Intan%20Devia%20Putri_page-0001.jpg) |
 
 ---
