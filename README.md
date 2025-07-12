@@ -1,3 +1,9 @@
+## 📌 Curriculum Vitae
+
+🔗 [📄 Lihat CV Saya (PDF)](https://github.com/intandv/Sertifikat/blob/main/CV%20-Intan%20Devia%20Putri.pdf)
+
+
+
 # 📄 Koleksi Sertifikat – Intan Devia Putri
 
 Selamat datang di repository ini!  
