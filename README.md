@@ -1,36 +1,49 @@
-## 📌 Curriculum Vitae
-
-🔗 [📄 Lihat CV Saya (PDF)](https://github.com/intandv/Sertifikat/blob/main/CV%20-Intan%20Devia%20Putri.pdf)
-
-
-
-# 📄 Koleksi Sertifikat – Intan Devia Putri
-
-Selamat datang di repository ini!  
-Berikut adalah kumpulan sertifikat pelatihan, kursus, dan bootcamp yang telah saya ikuti sebagai bentuk pengembangan keterampilan di bidang teknologi informasi dan pemrograman.
+<h1 align="center">👩‍💻 Intan Devia Putri</h1>
+<p align="center">
+  <em>Mahasiswa Sistem Informasi | Enthusiast in Web & Software Development | Aktif mengembangkan diri melalui pelatihan dan proyek mandiri</em>
+</p>
 
 ---
 
-## 📚 Daftar Sertifikat
+## 🚀 Tentang Saya
 
-| Nama Sertifikat                                       | Penyelenggara       | Tahun | Link Sertifikat |
-|--------------------------------------------------------|----------------------|-------|------------------|
-| Website Development_ Back End                          | My Skill             | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat-WebsiteDevelopment_%20Back%20EndMySkill.jpg) |
-| Belajar Dasar Pemrograman Web                          | Dicoding             | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat-Dcoding-BelajarDasarPemograman%20Web.jpg) |
-| Database Design                                        | Oracle Academy       | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat%20-OracleAcademy-DatabaseDesign.jpg) |
-| Database Programming with SQL                          | Oracle Academy       | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat-%20OracleAcademy-DatabaseProgramingwithSQL.jpg) |
+Halo! Saya **Intan Devia Putri**, mahasiswa Sistem Informasi yang sedang aktif mengembangkan keterampilan dalam pengembangan aplikasi berbasis web dan desktop. Saya antusias dalam mengikuti pelatihan, membangun proyek pribadi, dan terdorong untuk terus belajar hal baru di bidang teknologi.
 
 ---
 
-## ✨ Tentang Saya
+## 🧰 Tech Stack & Tools
 
-Saya adalah **Intan Devia Putri**, mahasiswa Sistem Informasi yang aktif mengikuti pelatihan teknologi dan pemrograman. Saya percaya bahwa pembelajaran berkelanjutan dan sertifikasi adalah bagian penting dalam membangun kompetensi profesional.
-
-📫 Hubungi saya melalui:
-- Email: [intandeviap@gmail.com]
-
+- 💻 **Bahasa**: Java, PHP, JavaScript
+- 🌐 **Web Dev**: HTML, CSS, Bootstrap
+- 🧩 **Database**: MySQL
+- 🧠 **Tools**: NetBeans, XAMPP, Git, GitHub
 
 ---
 
-Terima kasih telah mengunjungi repositori ini 🙌  
-Silakan gunakan referensi ini sebagai portofolio keterampilan saya di bidang teknologi.
+## 🏆 Proyek Unggulan
+
+| 💡 Proyek | Deskripsi | Link |
+|----------|-----------|------|
+| **Aplikasi Kasir Java GUI** | Aplikasi kasir sederhana berbasis Java (Swing) untuk UMKM Rajo Seblak | [🔗 GitHub](https://github.com/intandv/Aplikasi-Kasir-Sederhana) |
+| **Toko Buku Online PHP** | Website toko buku digital & fisik dengan sistem keranjang belanja | [🔗 GitHub](https://github.com/intandv/Litera--Toko-Buku-Online) |
+| **Koleksi Sertifikat** | Dokumentasi pelatihan, webinar & sertifikat kompetensi | [🔗 GitHub](https://github.com/intandv/Sertifikat) |
+
+---
+
+## 📄 Curriculum Vitae & Sertifikasi
+
+- 📎 [Lihat CV saya (PDF)](https://github.com/intandv/Sertifikat/blob/main/CV%20-Intan%20Devia%20Putri.pdf)
+- 📁 [Lihat Koleksi Sertifikat](https://github.com/intandv/Sertifikat)
+
+---
+
+## 📬 Hubungi Saya
+
+- ✉️ Email: [intandeviap@gmail.com]
+
+
+
+<p align="center">
+  Terima kasih telah mengunjungi profil saya 🙌  
+  <br>⭐ Jangan lupa beri ⭐ di repo yang kamu suka!
+</p>
