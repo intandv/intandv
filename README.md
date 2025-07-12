@@ -1,49 +1,53 @@
-<h1 align="center">👩‍💻 Intan Devia Putri</h1>
+<h1 align="center">📄 Koleksi Sertifikat – Intan Devia Putri</h1>
 <p align="center">
-  <em>Mahasiswa Sistem Informasi | Web & Desktop Developer | Aktif membangun portofolio teknologi</em>
+  <em>Portofolio pelatihan dan sertifikat di bidang teknologi & pemrograman</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
 
-## 🧠 Tentang Saya
+## 🔎 Daftar Isi
 
-Halo! Saya **Intan Devia Putri**, seorang mahasiswa Sistem Informasi yang memiliki minat besar dalam pengembangan perangkat lunak, terutama di bidang **aplikasi desktop Java**, **website PHP**, dan **manajemen basis data**.
-
-Saya aktif mengikuti pelatihan, membuat proyek nyata, dan terus belajar teknologi baru. GitHub ini saya gunakan sebagai media dokumentasi dan portofolio publik.
-
----
-
-## 🚀 Proyek Unggulan
-
-| Proyek                               | Deskripsi                                                                 | Link |
-|--------------------------------------|---------------------------------------------------------------------------|------|
-| 💼 Aplikasi Kasir Java GUI           | Aplikasi kasir sederhana untuk UMKM menggunakan Java Swing                | [🔗 GitHub](https://github.com/intandv/Aplikasi-Kasir-Sederhana) |
-| 📚 Toko Buku Online                  | Website e-commerce buku digital & fisik menggunakan PHP & MySQL           | [🔗 GitHub](https://github.com/intandv/Litera--Toko-Buku-Online) |
-| 📄 Koleksi Sertifikat & CV          | Dokumentasi hasil pelatihan dan CV pribadi                                | [🔗 GitHub](https://github.com/intandv/Sertifikat) |
+- [📚 Daftar Sertifikat](#-daftar-sertifikat)
+- [📌 Curriculum Vitae](#-curriculum-vitae)
+- [✨ Tentang Saya](#-tentang-saya)
 
 ---
 
-## 📄 Curriculum Vitae
+## 📚 Daftar Sertifikat
 
-- 🔗 [Lihat CV Saya (PDF)](https://github.com/intandv/Sertifikat/blob/main/CV-Intan-Devia-Putri.pdf)
-- 📁 [Lihat Koleksi Sertifikat](https://github.com/intandv/Sertifikat)
+| Sertifikat                                           | Penyelenggara     | Tahun | Link |
+|------------------------------------------------------|--------------------|-------|------|
+| Website Development                                  | Skill Campus       | 2025  | [📄 Lihat](./sertifikat/E-Certif%20SC%20Website%20Development.jpg) |
+| Belajar Dasar Pemrograman Web                        | Dicoding           | 2025  | [📄 Lihat](./sertifikat/Sertifikat%20-%20Dcoding-Belajar%20Dasar%20Pemrograman%20Web.png) |
+| Database Foundations                                 | Oracle Academy     | 2025  | [📄 Lihat](./sertifikat/Sertifikat%20-%20Oracle%20Academy%20-Database%20Foundations%20-%20Intan%20Devia%20Putri_page-0001.jpg) |
+| Database Programming with SQL                        | Oracle Academy     | 2025  | [📄 Lihat](./sertifikat/Sertifikat%20-%20Oracle%20Academy%20-Database%20Programming%20with%20SQL%20-%20Intan%20Devia%20Putri_page-0001.jpg) |
 
 ---
 
-## 📫 Hubungi Saya
+## 📌 Curriculum Vitae
 
+🔗 [📄 Lihat CV Saya (PDF)](./CV-Intan-Devia-Putri.pdf)
+
+CV ini berisi informasi pendidikan, pengalaman proyek, dan keterampilan teknis saya secara lengkap.
+
+---
+
+## ✨ Tentang Saya
+
+Saya adalah **Intan Devia Putri**, mahasiswa Sistem Informasi yang aktif mengikuti pelatihan, mengerjakan proyek mandiri, dan mendokumentasikan pencapaian saya dalam dunia teknologi.
+
+📫 Hubungi saya:
 - ✉️ Email: [intandeviap@gmail.com]
--
+
 ---
 
 <p align="center">
-  Terima kasih telah mengunjungi profil saya 🙌<br>
-  Jangan ragu untuk menghubungi saya untuk kolaborasi atau kesempatan kerja!
+  Terima kasih telah mengunjungi repository ini 🙌<br>
+  Jika Anda HR, rekruter, atau ingin kolaborasi, saya sangat terbuka!
 </p>
