@@ -9,10 +9,10 @@ Berikut adalah kumpulan sertifikat pelatihan, kursus, dan bootcamp yang telah sa
 
 | Nama Sertifikat                                       | Penyelenggara       | Tahun | Link Sertifikat |
 |--------------------------------------------------------|----------------------|-------|------------------|
-| Website Development                                    | Skill Campus         | 2025  | [📄 Lihat](./Sertifikat/E-Certif%20SC%20Website%20Development.jpg) |
-| Belajar Dasar Pemrograman Web                          | Dicoding             | 2025  | [📄 Lihat](./Sertifikat/Sertifikat%20-%20Dcoding-Belajar%20Dasar%20Pemrograman%20Web.png) |
+| Website Development                                    | Skill Campus         | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat-WebsiteDevelopment_%20Back%20EndMySkill.jpg) |
+| Belajar Dasar Pemrograman Web                          | Dicoding             | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat-Dcoding-BelajarDasarPemograman%20Web.jpgg) |
 | Database Design                                   | Oracle Academy       | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat%20-OracleAcademy-DatabaseDesign.jpg) |
-| Database Programming with SQL                          | Oracle Academy       | 2025  | [📄 Lihat](./Sertifikat/Sertifikat%20-%20Oracle%20Academy%20-Database%20Programming%20with%20SQL%20-%20Intan%20Devia%20Putri_page-0001.jpg) |
+| Database Programming with SQL                          | Oracle Academy       | 2025  | [📄 Lihat](https://github.com/intandv/Sertifikat/blob/main/Sertifikat-%20OracleAcademy-DatabaseProgramingwithSQL.jpg) |
 
 ---
 
